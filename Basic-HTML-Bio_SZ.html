@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+
+<body>
+
+  <h1>Your Name</h1>
+
+  <img src="https://placehold.it/200x200" alt="Stephanie Zhu">
+
+  <p>Welcome to my Bio page.</p>
+  <p>Here is my contact information:</p>
+
+  <ul>
+    <li><strong>Email:</strong> <a href="#">zhulei23@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">sampleName</a></li>
+    <li><strong>Twitter:</strong> <a href="#">coming soon</a></li>
+  </ul>
+
+  <table>
+    <tr>
+      <th>Books</th>
+      <th>Movies</th>
+      <th>Games</th>
+    </tr>
+    <tr>
+      <td>Don't Sweat the Small Stuff</td>
+      <td>Legend of The Fall</td>
+      <td>Pokémon</td>
+    </tr>
+    <tr>
+      <td>Chicken Soup</td>
+      <td>The Mask</td>
+      <td>Diablo</td>
+    </tr>
+    <tr>
+      <td>The Girl With All the Gifts</td>
+      <td>Braveheart</td>
+      <td>Dragon Age: Origins</td>
+    </tr>
+  </table>
+
+  <!-- Bonus link to last class page -->
+  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
+
+</body>
+
+</html>
